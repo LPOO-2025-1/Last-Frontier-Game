@@ -4,21 +4,21 @@
 
 ![Game](https://i.imgur.com/SMaQdgz.png)
 
-*"Num mundo onde até o vento pode mentir, cada passo é um sussurro de um deus adormecido..."*
+*"In a world where even the wind can lie, every step is a whisper from a sleeping god..."*
 
 </div>
 
 ---
 
-## 🌳 Sinopse
+## Synopsis
 
-**Last Frontier** é um jogo de aventura e sobrevivência ambientado no mundo místico de **Dravnir**, onde deuses adormecidos, criaturas ancestrais e uma praga misteriosa moldam um universo à beira do colapso.
+**Last Frontier** is an adventure and survival game set in the mystical world of **Dravnir**, where slumbering gods, ancestral creatures, and a mysterious plague shape a universe on the brink of collapse.
 
-Você acorda às margens do lago **Mjarnvatn** sem lembranças, apenas com uma **Vefrbind** no braço e uma dor no peito. Como um **Vandrer** — um forasteiro sonhado pela própria Árvore Primordial — você foi chamado para restaurar o equilíbrio em um mundo onde até mesmo o clima tem vontade própria.
+You awaken on the shores of **Lake Mjarnvatn** with no memories, only a **Vefrbind** on your arm and a pain in your chest. As a **Vandrer** — an outsider dreamed into existence by the Primordial Tree itself — you have been called to restore balance in a world where even the climate has a will of its own.
 
 ---
 
-## 🌍 O Mundo de Dravnir
+## World of Dravnir
 
 <div align="center">
 
@@ -26,36 +26,36 @@ Você acorda às margens do lago **Mjarnvatn** sem lembranças, apenas com uma *
 
 </div>
 
-Explore as cinco regiões das **Terras Partidas**, cada uma com ecossistemas únicos, criaturas distintas e segredos antigos:
+Explore the five regions of the **Broken Lands**, each with unique ecosystems, distinct creatures, and ancient secrets:
 
-### 🌲 **Skógrheimr** 
-Floresta de neblina perpétua onde memórias tomam forma
+### **Skógrheimr** 
+Perpetual mist forest where memories take shape
 
-### ⛰️ **Hrafntindr** 
-Montanhas de pedras mortas e trovões silenciosos
+### **Hrafntindr** 
+Mountains of dead stones and silent thunder
 
-### 🕳️ **Djúpgandr** 
-Cavernas que pulsam como um coração antigo
+### **Djúpgandr** 
+Caverns that pulse like an ancient heart
 
-### 🏛️ **Eldthórr** 
-Vale de ruínas que cantam em línguas esquecidas
+### **Eldthórr** 
+Valley of ruins that sing in forgotten languages
 
-### 🌊 **Mjarnvatn** 
-Lago encantado que reflete o futuro dos que sacrificam lembranças
+### **Mjarnvatn** 
+Enchanted lake that reflects the future of those who sacrifice memories
 
 ---
 
-## 👥 Personagens
+## Characters
 
-Escolha entre diferentes classes, cada uma com habilidades e histórias únicas:
+Choose from different classes, each with unique abilities and stories:
 
 <div align="center">
 
-| **Cientista** | **Caçador** | **Explorador** |
+| **Scientist** | **Hunter** | **Explorer** |
 |:---:|:---:|:---:|
 | ![Scientist](https://i.imgur.com/8HEdhrh.png) | ![Hunter](https://i.imgur.com/3VISqHX.png) | ![Explorer](https://i.imgur.com/EXLAi8S.png) |
 
-| **Pirata** | **Nômade** | **Infiltrador** |
+| **Pirate** | **Nomad** | **Infiltrator** |
 |:---:|:---:|:---:|
 | ![Pirate](https://i.imgur.com/dbYPmBO.png) | ![Nomadic](https://i.imgur.com/jYCZL6c.png) | ![Infiltrator](https://i.imgur.com/zjfAf1R.png) |
 
@@ -63,109 +63,80 @@ Escolha entre diferentes classes, cada uma com habilidades e histórias únicas:
 
 ---
 
-## ⚔️ Características do Jogo
+## Game Characteristics:
 
-### 🌡️ **Sistema de Sobrevivência**
-- Enfrente climas vivos como **Vindkaldr** e **Skógrgufa**
-- Resista à **Morte Silenciosa**, uma praga que corrói memórias e identidade
-- Crie remédios como o **Myrsillblóð** para combater as doenças mágicas
+### Survival System
+- Face living climates such as **Vindkaldr** and **Skógrgufa**
+- Resist the **Silent Death**, a plague that erodes memories and identity
+- Create remedies such as **Myrsillblóð** to combat magical diseases
 
-### ⚔️ **Combate Tático**
-- Utilize armas como **Deyðrblóð**, a lâmina que suga a alma
-- Enfrente criaturas como os **Grimsvártr**, javalis titânicos cobertos de espinhos ósseos
-- Desenvolva estratégias contra inimigos que evoluem com o ambiente
+### Tactical Combat  
+- Use weapons like **Deyðrblóð**, the soul-draining blade  
+- Face creatures like the **Grimsvártr**, titanic boars covered in bony spikes  
+- Develop strategies against enemies that evolve with the environment
 
-### 🗺️ **Exploração Profunda**
-- Descubra os segredos dos cinco territórios das Terras Partidas
-- Interaja com os últimos guardiões do equilíbrio, como a **Yndra Sædis**
-- Desvende a história do panteão antigo: **Varrundr**, **Eldjarn**, **Skarnir**, **Niðrys** e **Vaelra**
+### Deep Exploration  
+- Discover the secrets of the five territories of the Shattered Lands  
+- Interact with the last guardians of balance, such as **Yndra Sædis**  
+- Unravel the history of the ancient pantheon: **Varrundr**, **Eldjarn**, **Skarnir**, **Niðrys** and **Vaelra**
 
-### 🧠 **Sistema de Memórias**
-- Recupere suas lembranças para desbloquear habilidades
-- Sacrifique memórias para obter visões do futuro
-- Desvende seu propósito como um **Vandrer** sonhado por Dravnir
-
----
-
-## 🎮 Como Jogar
-
-Este jogo é uma aventura em texto e é executado através de um console ou terminal compatível.
-
-Requisitos:
-
-Java Development Kit (JDK) instalado (versão 17 ou superior recomendada para funcionalidades como pattern matching em switch).
-
-Execução:
-
-Faça o download ou clone o repositório do projeto.
-
-Abra o projeto em uma IDE Java (como IntelliJ IDEA, Eclipse, VS Code com o Java Extension Pack).
-
-Localize e execute a classe principal: game.Main.java.
-
-Alternativamente, compile manualmente via terminal (navegue até o diretório src):
-
-(A ordem e os wildcards de compilação podem precisar de ajuste dependendo da sua estrutura de pastas exata e dependências entre elas.)
-
-Comandos:
-
-O jogo apresentará opções numeradas para suas ações principais.
-
-Dentro de submenus (como Inventário), novas opções serão apresentadas.
-
-Digite o número da opção desejada e pressione Enter para confirmar.
+### Memory System
+- Recover your memories to unlock abilities  
+- Sacrifice memories to obtain visions of the future  
+- Uncover your purpose as a **Vandrer** dreamed of by Dravnir
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## How to Play
+  
+This game is a text-based adventure and runs through a compatible console or terminal.
 
-Linguagem Principal: Java (OpenJDK 23)
+Requirements:
 
-Controle de Versão: Git e GitHub.
+- Java Development Kit (JDK) installed (version 17 or higher recommended for features such as pattern matching in switch).
 
-IDE Comum: IntelliJ IDEA, Eclipse, Visual Studio Code.
+Execution:
 
-Gerenciamento de Projeto:
+- Download or clone the project repository.
 
----
+- Open the project in a Java IDE (such as IntelliJ IDEA, Eclipse, VS Code with the Java Extension Pack).
 
-## 📝 Status do Desenvolvimento
+- Locate and run the main class: game.Main.java.
 
-O jogo encontra-se em sua versão finalizada, conforme os requisitos e o escopo definidos para o projeto.
+- Alternatively, compile manually via terminal (navigate to the src directory):
 
-- Em breve, melhorias na Interface Gráfica!
+Warning: The order and compilation wildcards may need adjustment depending on your exact folder structure and dependencies between them!
 
----
+Commands:
 
-## 👥 Equipe
+- The game will present numbered options for your main actions.
 
-João Ricardo: https://github.com/JRicLP
+- Within submenus (such as Inventory), new options will be presented.
 
-Paola Hannah: https://github.com/hann1105
-
----
-
-## 📧 Contato
-
-Para perguntas, sugestões ou feedback, entre em contato através de:
-
-Email - João Ricardo: jrls1@poli.br
-
-Email - Paola Hannah: phmc@poli.br
+- Type the number of the desired option and press Enter to confirm.
 
 ---
 
-## 📜 Licença
+## Technologies:
 
-**© 2025 Last Frontier. Todos os direitos reservados.**
+Language: Java (OpenJDK 23)
+
+Libraries: JavaSwing
+
+---
+
+## Contact
+
+For questions, suggestions, or feedback, please get in touch through:
+
+- Email - João Ricardo: jrls1@poli.br
+
+- Email - Paola Hannah: phmc@poli.br
 
 ---
 
 <div align="center">
 
-*Em Dravnir, cada escolha ecoa através das eras...*
-
 [![Status](https://img.shields.io/badge/Status-Finalizado-green)](https://github.com/seu-usuario/last-frontier)
-[![License](https://img.shields.io/badge/License-Todos%20os%20direitos%20reservados-red)](LICENSE)
 
 </div>
